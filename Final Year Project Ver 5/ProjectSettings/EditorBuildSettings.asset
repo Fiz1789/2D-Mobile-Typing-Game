@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 7a7b18b38c4c51d499cbdfc0dbb69c90
+  - enabled: 1
+    path: Assets/Scenes/Options Scene.unity
+    guid: 05978a185a5a4e142bd8056a2fae3011
+  - enabled: 1
+    path: Assets/Scenes/Credits Scene.unity
+    guid: 16ac8077277c3fe41a6c87921fac8ce9
+  - enabled: 1
+    path: Assets/Scenes/Level Selection.unity
+    guid: c8d0fb9b223ff6848b9806e99e3f8a1a
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Cutscene Stage 1.unity
+    guid: fb90d47b4765d2946a280a2f943ea9dc
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Gameplay Stage 1.unity
+    guid: 7009393574173ee468cf020121105fb2
+  m_configObjects: {}
